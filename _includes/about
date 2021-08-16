@@ -1,0 +1,12 @@
+<section id="about" class="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Hi, I'm Abina!</h2>
+        <p class="lead">Thank you for stopping by my website!</p>
+      </div>
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
