@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Abina, ASA
+email: abinapre@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Abina Premachandran, Associate of the Society of Actuaries (ASA)
+baseurl: "http://abinapre.github.io" # the subpath of your site, e.g. /blog/
+url: "http://abinapre.github.io" # the base hostname & protocol for your site
+
+# User setting
+owner: Abina
+email: abinapre@gmail.com
+#facebook_username: example
+#twitter_username: example
+#github_username: example
+address:
+  - line: San Francisco Bay Area
+#  - line: "Los Angeles, CA 90029"
+  # Feel free to add more lines here 
+# telephone: (123) 456-7890
+# copyright: Your Site
+
+# API settings
+# google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
+
+# Build settings
+markdown: kramdown
